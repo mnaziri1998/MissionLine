@@ -68,7 +68,7 @@ export default function MissionLineWebsite() {
     },
     { label: "Location", value: "Ashburn, Virginia" },
     { label: "Phone", value: "571-307-8095" },
-    { label: "Email", value: "Naziri.8877@gmail.com" },
+    { label: "Email", value: "info@missionlineusa.com" },
     { label: "Business Type", value: "Small Business" },
     { label: "SAM Registration", value: "Pending / To Be Added" },
     { label: "UEI", value: "To Be Added" },
@@ -307,7 +307,7 @@ export default function MissionLineWebsite() {
                   <span className="font-semibold">Phone:</span> 571-307-8095
                 </p>
                 <p>
-                  <span className="font-semibold">Email:</span> Naziri.8877@gmail.com
+                  <span className="font-semibold">Email:</span> info@missionlineusa.com
                 </p>
                 <p>
                   <span className="font-semibold">Location:</span> Ashburn, VA
